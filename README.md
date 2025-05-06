@@ -15,3 +15,10 @@ This is a Credit Card Fraud Detection project that focuses on using various mach
 
 ## Dataset Used
 [KaggleDataSet-creditcard.csv](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+
+## TechStack used
+- Python
+- Scikit-learn
+- Streamlit
+- Pandas, NumPy, Matplotlib, Seaborn
+- Jupyter Notebook
